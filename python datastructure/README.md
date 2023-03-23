@@ -1,4 +1,4 @@
- 
+
 # Python DataStructure
 # In this repository it contains all about python datastructures
 ## 1)Lists
